@@ -1,0 +1,145 @@
+        /*FONTS*/
+/*Raleway, PT Sans Narrow*/
+/*TAG SECTION*/
+body {
+  font-family: "Raleway" sans-serif;
+}
+
+/*CLASS SECTION*/
+.page-header {
+  margin: 0 20% 25px 20%;
+}
+
+.page-header-with-sidebar {
+  margin: 0 10% 25px 30%;
+}
+
+.navbar-with-sidebar {
+  margin: 0 0 0 20%;
+}
+
+.content {
+  margin: 0 20% 1rem 20%;
+  padding: 10px;
+  border: solid 5px #333333;
+  border-radius: 10px;
+}
+
+.content-home {
+  margin: 0 20% 1rem 20%;
+  padding: 10px;
+  font-size: 1.5rem;
+}
+
+.home-header {
+  font-size: 4rem;
+  margin: 2rem 0;
+}
+
+.content-with-sidebar {
+  margin: 0 10% 1rem 30%;
+  padding: 10px;
+  border: solid 5px #333333;
+  border-radius: 10px;
+}
+
+.sidebar {
+  text-align: left;
+  height: 100%;
+  max-width: 20%;
+  display: inline-block;
+  position: fixed;
+  border-right: solid lightgrey 1px;
+}
+
+.sidebar-content {
+  max-height: 99%;
+  overflow-y: scroll;
+}
+
+.sidebar img {
+  width: 100%;
+}
+.sidebar-divider {
+  margin: 0 10px;
+  padding: 0;
+}
+
+.sidebar-item {
+  padding: 10px;
+  display: block;
+  text-align: left;
+  border-radius: 0;
+  color: #333333;
+}
+
+.sidebar-item:hover {
+  background-color: #333333;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-text {
+  display: block;
+}
+.btn-text:hover {
+  color: white;
+}
+
+.carousel {
+  background-color: #333333;
+}
+.carousel img {
+  width: 100%;
+}
+
+.no-content {
+  margin-left: 0;
+  padding: 0;
+  text-align: center;
+}
+.no-content img {
+  width: 70%;
+}
+
+.answer {
+  color: #1176b1;
+  display: block;
+}
+
+.show-answer {
+  color: #1176b1;
+  display: block;
+}
+.show-answer:hover {
+  color: #f05e23;
+}
+
+.inline-img {
+  margin: auto;
+  max-width: 100%;
+  display: block;
+}
+
+.float-right {
+  float: right;
+}
+
+.footer {
+  position: relative;
+  background-color: lightgrey;
+  color: darkgrey;
+  font-size: .8rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.footer-with-sidebar {
+  margin-left: 20%;
+  position: relative;
+  background-color: lightgrey;
+  color: darkgrey;
+  font-size: .8rem;
+  text-align: center;
+  padding: 1rem;
+}
