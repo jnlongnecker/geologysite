@@ -36,6 +36,15 @@ body {
   margin: 2rem 0;
 }
 
+.home-text {
+  display: inline-block;
+}
+
+.home-span {
+  display: inline-block;
+  margin: auto;
+}
+
 .content-with-sidebar {
   margin: 0 10% 1rem 30%;
   padding: 10px;
