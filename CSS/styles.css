@@ -37,12 +37,11 @@ body {
 }
 
 .home-text {
-  display: inline-block;
+  margin: 0 12.5%;
 }
 
 .home-span {
-  display: inline-block;
-  margin: auto;
+  text-align: center;
 }
 
 .content-with-sidebar {
