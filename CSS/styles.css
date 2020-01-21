@@ -130,6 +130,12 @@ max-width: 100%;
 display: block;
 }
 
+.head-img {
+  width: 400px;
+  max-width: 100%;
+  display: block;
+}
+
 .float-right {
 float: right;
 }
