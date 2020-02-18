@@ -60,6 +60,8 @@ body {
   display: inline-block;
   position: fixed;
   border-right: solid lightgrey 1px;
+  background-color: white;
+  z-index: 1;
 }
 
 .sidebar-content {
